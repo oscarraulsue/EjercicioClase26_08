@@ -1,0 +1,33 @@
+{
+  "usuarios": [
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "John David",
+      "apellido": "Betancur Román",
+      "correo": "david@gmail.com",
+      "id": 1
+    },
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "qwe",
+      "apellido": "wqe",
+      "correo": "wqe@das.sd",
+      "id": 3
+    },
+
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "Oscarasd",
+      "apellido": "Sueasd",
+      "correo": "oscarsasue001@gmail.com",
+      "id": 6
+    },
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "Oscarasd",
+      "apellido": "Sueasda",
+      "correo": "oscarsue001@gmail.comasd",
+      "id": 7
+    }
+  ]
+}
